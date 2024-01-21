@@ -1,5 +1,7 @@
 Both files are from assignment #11 of Computer Organization course
-Both are written in MIPS assembly
+Both are written in MIPS assembly.
+
+
 mmn11q3:
   gets a number between -9999 and 9999
   and prints out its binary representation straight and backwards, in 16 bits.
